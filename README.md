@@ -1,4 +1,4 @@
-# ACADICS
+# ACADERA
 A one stop solution containing all courses for your academics interests.
 
 PROBLEM :
